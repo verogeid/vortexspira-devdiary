@@ -18,6 +18,20 @@ Sí, has leído bien. Se te notificará la existencia de un nuevo curso que podr
 
 ***
 
+<a id="progreso"></a>
+## **🛠️ Nota de progreso: La excelencia no admite atajos**
+
+Aunque el desarrollo principal está finalizado, hemos decidido posponer el lanzamiento para pulir el último **6%** restante de la certificación **AAA** (actualmente al **94%**). VortexSpira no es un producto para la mayoría, es un producto para todas las personas.
+
+**Puntos clave de esta fase:**
+
+* **Semántica Pura:** Estamos refactorizando la estructura del expositor (sustituyendo elementos `article` por `li` en componentes críticos) para asegurar que la navegación sea 100% lógica para lectores de pantalla y líneas Braille.
+* **Optimización Extrema:** Implementamos **Lazy Loading** y limpieza de código heredado para rescatar el rendimiento en dispositivos de gama baja.
+
+> El desafío siempre ha sido el mismo: **un sordo-ciego con un móvil viejo**. Si la arquitectura sostiene esa experiencia, "vuela" para todos los demás. La accesibilidad no es una capa de pintura, es el cimiento.
+
+***
+
 <a id="indice"></a>
 <div align="center">
 
