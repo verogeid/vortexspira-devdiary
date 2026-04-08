@@ -158,7 +158,8 @@ El **Expositor de VortexSpira®** ha superado la auditoría de accesibilidad má
 * **Lighthouse (Móvil):** Puntuación de **91/100** en rendimiento y **100/100** en accesibilidad.
 * **Lighthouse (Escritorio):** Puntuación de **99/100** en rendimiento y **100/100** en accesibilidad.
 * **Determinismo:** 0 ms de *Total Blocking Time* (TBT) en escritorio, asegurando una respuesta instantánea al usuario.
-* **Resiliencia (Stress Test):** Los últimos resultados en hardware de gama baja (Android One, red 4G, desde São Paulo) arrojan un **TBT de 0.23s**, optimizando la respuesta en un **56%** respecto a la versión inicial de la auditoría (0.53s). Test validado mediante WebPageTest.
+* **Resiliencia (Stress Test):** Los resultados en escenarios extremos (red 4G en São Paulo e Indonesia) han validado la eficiencia del hilo principal. Hemos logrado reducir el **TBT a 0.169s**, lo que supone una optimización masiva respecto al benchmark inicial de 0.53s. Estos datos, obtenidos mediante WebPageTest, confirman que la arquitectura es verdaderamente "Hardware Agnostic".
+* **Eficiencia de Entrega:** Con un **TTFB de 0.606s** en nodos remotos, la infraestructura garantiza una respuesta ágil global. El peso de la página en la primera carga se mantiene en apenas **292KB**, reduciéndose a **2KB** en visitas recurrentes gracias a la gestión avanzada de caché y Service Workers.
 * **Enlace al informe:** [📄 Auditoría Técnica Completa](https://www.vortexspira.com?id=c-audit)
 
 ### **🛠️ Estado de la PWA (Plataforma de Aprendizaje)**
