@@ -152,22 +152,22 @@ Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y 
 ## **🚀 Evolución y Hitos de Ingeniería**
 
 ### **🏅 Certificación AAA Lograda (Expositor)**
-El **Expositor de VortexSpira®** ha superado la auditoría de accesibilidad más exigente, validando que el diseño orientado a la baja visión y la neurodivergencia es funcionalmente perfecto.
+El **Expositor de VortexSpira®** ha sido diseñado como una **SPA (Single Page Application)** de alto rendimiento, superando la auditoría de accesibilidad más exigente. Este hito valida que una arquitectura dinámica puede ser funcionalmente perfecta para la baja visión y la neurodivergencia.
 
 * **Axe-Core:** 0 incidencias críticas, graves, moderadas o leves.
 * **Lighthouse (Móvil):** Puntuación de **91/100** en rendimiento y **100/100** en accesibilidad.
 * **Lighthouse (Escritorio):** Puntuación de **99/100** en rendimiento y **100/100** en accesibilidad.
-* **Determinismo de Élite:** 0 ms de *Total Blocking Time* (TBT) en escritorio.
-* **Resiliencia en Escenarios Extremos:** En tests de estrés (red 4G, hardware de entrada, nodos en São Paulo e Indonesia), hemos alcanzado un **TBT de 0.169s**.
-* **Eficiencia Proactiva:** Estos resultados se han logrado incluso manteniendo la librería **Swiper** en la vista móvil. La próxima iteración, con navegación vertical nativa (Zero Third-Party), colapsará este tiempo hacia el determinismo total.
+* **Determinismo de Élite:** 0 ms de *Total Blocking Time* (TBT) en escritorio, asegurando una respuesta instantánea al usuario.
+* **Resiliencia Global (Stress Test):** En escenarios extremos (red 4G, hardware de entrada, nodo Indonesia), hemos alcanzado un **TBT de 0.169s**. Estos resultados se han logrado incluso manteniendo la librería **Swiper** en la vista móvil, demostrando la eficiencia del hilo principal.
+* **Optimización de Activos:** Con un peso inicial de carga de apenas **292KB** y un **TTFB de 0.606s** en nodos remotos, la infraestructura garantiza una entrega ágil en cualquier punto geográfico.
 * **Enlace al informe:** [📄 Auditoría Técnica Completa](https://www.vortexspira.com?id=c-audit)
 
 ### **🛠️ Estado de la PWA (Plataforma de Aprendizaje)**
-La PWA se encuentra actualmente en fase de **revisión interna** y pruebas de estrés sensorial antes de su auditoría formal.
+Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersión total. Actualmente se encuentra en fase de **revisión interna** antes de su auditoría formal.
 
-* **Arquitectura "Vainilla":** Desarrollo 100% nativo (zero third-party) para garantizar que no existan fugas de rendimiento ni bloqueos del hilo principal.
-* **Enfoque:** Finalizando la sincronización milimétrica entre el motor TTS desacoplado y el resaltado semántico del código.
-* **Pruebas de Campo:** Validando la persistencia de datos en escenarios *offline-first* extremos.
+* **Arquitectura "Vainilla" SPA:** Desarrollo 100% nativo (zero third-party) para garantizar una experiencia sin recargas que interrumpan el flujo del motor TTS.
+* **Persistencia de Sesión:** El modelo SPA permite que el audio y el resaltado semántico del código se mantengan sincronizados entre capítulos sin saltos de contexto.
+* **Enfoque Offline-First:** Optimizando el Service Worker para la gestión de módulos cifrados y la persistencia de progreso sin dependencia de red.
 
 <div align="right">
 
