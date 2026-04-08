@@ -1,5 +1,9 @@
 # <img src="./images/logo.svg" alt="VortexSpira Logo" height="40" target="_top"/> **VortexSpira® EdTech: Tu Mentor de Audio-Aprendizaje para la Arquitectura Web y QA**
 
+[![Expositor: WCAG 2.2 AAA](https://img.shields.io/badge/Expositor-WCAG_2.2_AAA_Certified-green?style=for-the-badge&logo=w3c&logoColor=white)](#hitos)
+[![PWA Status: In Review](https://img.shields.io/badge/PWA-En_Revisión_Técnica-orange?style=for-the-badge&logo=pwa&logoColor=white)](#hitos)
+[![Sponsor VortexSpira](https://img.shields.io/badge/Sponsor-VortexSpira-db61a2?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/verogeid)
+
 *Transformamos tu carrera con una **experiencia de inmersión sensorial hands-free**, eliminando la fricción del vídeo para que te centres en la práctica y la transformación técnica.*
 
 ***
@@ -18,24 +22,10 @@ Sí, has leído bien. Se te notificará la existencia de un nuevo curso que podr
 
 ***
 
-<a id="progreso"></a>
-## **🛠️ Nota de progreso: La excelencia no admite atajos**
-
-Aunque el desarrollo principal está finalizado, hemos decidido posponer el lanzamiento para pulir el último **6%** restante de la certificación **AAA** (actualmente al **94%**). VortexSpira no es un producto para la mayoría, es un producto para todas las personas.
-
-**Puntos clave de esta fase:**
-
-* **Semántica Pura:** Estamos refactorizando la estructura del expositor (sustituyendo elementos `article` por `li` en componentes críticos) para asegurar que la navegación sea 100% lógica para lectores de pantalla y líneas Braille.
-* **Optimización Extrema:** Implementamos **Lazy Loading** y limpieza de código heredado para rescatar el rendimiento en dispositivos de gama baja.
-
-> El desafío siempre ha sido el mismo: **un sordo-ciego con un móvil viejo**. Si la arquitectura sostiene esa experiencia, "vuela" para todos los demás. La accesibilidad no es una capa de pintura, es el cimiento.
-
-***
-
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Ciencia y Seguridad](#ciencia-seguridad) • [Metodología](#metodologia) • [Plataforma](#plataforma) • [Visión y Contacto](#vision-contacto) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Ciencia y Seguridad](#ciencia-seguridad) • [Metodología](#metodologia) • [Plataforma](#plataforma) • [Visión y Contacto](#vision-contacto) • [Hitos](#hitos) • [Licencia](#licencia)
 
 </div>
 
@@ -149,6 +139,34 @@ La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanent
 Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y el modelo para **Educadores**, visita:
 
 ➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.md)
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+***
+
+<a id="hitos"></a>
+## **🚀 Evolución y Hitos de Ingeniería**
+
+### **🏅 Certificación AAA Lograda (Expositor)**
+El **Expositor de VortexSpira®** ha superado la auditoría de accesibilidad más exigente, validando que el diseño orientado a la baja visión y la neurodivergencia es funcionalmente perfecto.
+
+* **Axe-Core:** 0 incidencias críticas, graves, moderadas o leves.
+* **Lighthouse (Móvil):** Puntuación de **91/100** en rendimiento y **100/100** en accesibilidad.
+* **Lighthouse (Escritorio):** Puntuación de **99/100** en rendimiento y **100/100** en accesibilidad.
+* **Determinismo:** 0 ms de *Total Blocking Time* (TBT) en escritorio, asegurando una respuesta instantánea al usuario.
+* **Resiliencia (Stress Test):** Los últimos resultados en hardware de gama baja (Android One, red 4G, desde São Paulo) arrojan un **TBT de 0.23s**, optimizando la respuesta en un **56%** respecto a la versión inicial de la auditoría (0.53s). Test validado mediante WebPageTest.
+* **Enlace al informe:** [📄 Auditoría Técnica Completa](https://www.vortexspira.com?id=c-audit)
+
+### **🛠️ Estado de la PWA (Plataforma de Aprendizaje)**
+La PWA se encuentra actualmente en fase de **revisión interna** y pruebas de estrés sensorial antes de su auditoría formal.
+
+* **Arquitectura "Vainilla":** Desarrollo 100% nativo (zero third-party) para garantizar que no existan fugas de rendimiento ni bloqueos del hilo principal.
+* **Enfoque:** Finalizando la sincronización milimétrica entre el motor TTS desacoplado y el resaltado semántico del código.
+* **Pruebas de Campo:** Validando la persistencia de datos en escenarios *offline-first* extremos.
 
 <div align="right">
 
