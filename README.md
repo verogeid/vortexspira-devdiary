@@ -8,9 +8,13 @@
 
 ***
 
-## **🚀 ¡Únete a la Lista de Fundadores! (Pre-Lanzamiento)**
+## **🚀 ¡Únete a la Lista de Fundadores! (Lanzamiento Q2 2026)**
 
-La plataforma se lanzará a principios de 2026. **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
+La plataforma se lanzará oficialmente durante el **segundo trimestre (Q2) de 2026**. 
+
+> **Nota de ingeniería:** Hemos ajustado el calendario original para garantizar que el despliegue inicial cumpla íntegramente con la **certificación AAA**. En VortexSpira®, la accesibilidad no es un parche posterior, sino el cimiento que dicta nuestros tiempos de entrega.
+
+**Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
 
 🌍 **Accesibilidad Económica:** Aplicamos **Smart Pricing (PPP)**. El precio se ajustará automáticamente a la realidad económica de tu región (LATAM/Global) para garantizar un acceso justo.
 
