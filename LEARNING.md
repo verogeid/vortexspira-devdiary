@@ -93,6 +93,10 @@ Mi metodología se apoya en la arquitectura de la plataforma **VortexSpira**, de
 * **Dictado Amigable:** La traducción técnica del código a la narración oral reduce la **fricción cognitiva** en el aprendizaje técnico.
 * **Flexibilidad:** Los cursos son secuenciales, de la base a los conceptos avanzados, pero la opción de **saltar entre capítulos** respeta el flujo de tu **memoria asociativa**.
 
+* **Motor Narrativo Condicional (Un Curso, Dos Realidades):** El aprendizaje no debe ser "talla única". La plataforma evalúa tu nivel y adapta la profundidad de la explicación en tiempo real sin cambiar de temario, ofreciendo dos modos de reproducción:
+    * **Modo Mentor (Senior / IT):** Para perfiles con base técnica. El mentor y el sistema van directo al grano, transfiriendo conocimiento puro mediante definiciones técnicas avanzadas y sin rodeos.
+    * **Modo Teatralización (Entry Level):** Para perfiles sin conocimientos previos. El sistema reduce drásticamente la carga cognitiva activando personajes conceptuales (como "La Base de Datos" o "La Red"). Estos interactúan con el mentor utilizando analogías cotidianas para explicar conceptos complejos desde cero, eliminando el síndrome del impostor.
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
