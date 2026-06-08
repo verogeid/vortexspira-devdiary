@@ -23,6 +23,9 @@
 * **Dictado Amigable (Visual vs. Audio):** El núcleo del formato `.vsl` es la capacidad de **desacoplar el texto que se muestra del texto que se lee**. Esto permite que el "Lector de Código" narre el código de forma natural (ej: "creamos la constante equis") mientras el usuario ve el código literal (ej: `const x = 1;`), eliminando la principal fuente de fricción del audio-aprendizaje técnico.
 * **Navegación *Hands-Free*:** Controla la reproducción (Reproducir/Parar, Siguiente/Anterior Frase, Reiniciar capítulo) desde el **teclado multimedia** con la **ventana minimizada**.
 * **Guía Visual Contextual (Modo Desktop - En Desarrollo):** Un modal de visualizaciones mostrará una **captura de pantalla sincronizada** con el *highlight* para guiar al alumno en las implicaciones del código en el navegador o en la localización de menús de herramientas.
+* **Parseo Dinámico Condicional (Single Source of Truth):** VortexSpira® no duplica el contenido para distintos niveles. Nuestro motor lee un único archivo fuente (markdown enriquecido) y construye el DOM en tiempo real dependiendo del modo de reproducción seleccionado por el usuario:
+    * Al ejecutar el **Modo Mentor**, el parser compila únicamente los nodos de conocimiento avanzado, ignorando a los personajes secundarios.
+    * Al ejecutar el **Modo Teatralización**, el motor inyecta en el DOM los nodos correspondientes a los `storyChar` (personajes de apoyo) y transmuta las líneas del mentor para interactuar con ellos. Todo el proceso es transparente y garantiza que **un usuario sordociego reciba exactamente la misma riqueza semántica, contexto y carga de información** que un usuario vidente, manteniendo la integridad del árbol de accesibilidad (A11Y).
 
 <div align="right">
 
