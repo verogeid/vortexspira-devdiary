@@ -8,11 +8,11 @@
 
 ***
 
-## **🚀 ¡Únete a la Lista de Fundadores! (Lanzamiento Q2 2026)**
+## **🚀 ¡Únete a la Lista de Fundadores! (Lanzamiento Q2/Q3 2026)**
 
-La plataforma se lanzará oficialmente durante el **segundo trimestre (Q2) de 2026**. 
+La plataforma tiene previsto alcanzar su primera versión funcional entre finales del **segundo trimestre (Q2) y principios del Q3 de 2026**. 
 
-> **Nota de ingeniería:** Hemos ajustado el calendario original para garantizar que el despliegue inicial cumpla íntegramente con la **certificación AAA**. En VortexSpira®, la accesibilidad no es un parche posterior, sino el cimiento que dicta nuestros tiempos de entrega.
+> **Nota de ingeniería sobre el calendario:** La PWA estaba planificada para principios de año, pero hemos ampliado la arquitectura del motor para incluir un parseo narrativo dinámico que reduce drásticamente la barrera de entrada técnica. El reto actual, y motivo de este ajuste de fechas, es garantizar que esta nueva inmersión multi-personaje se transmita con **exactamente la misma riqueza de información y contexto a un usuario sordociego** que a un usuario vidente. En VortexSpira®, la accesibilidad AAA y la equidad de la información son innegociables.
 
 **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
 
