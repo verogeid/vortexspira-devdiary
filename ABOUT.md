@@ -116,6 +116,8 @@ El resultado es un material de estudio personalizado y altamente accesible que e
 
 Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
 
+> *Especial agradecimiento a **Naiara Barreiro** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Sin ti está aplicación nunca hubiera sido lo que es.*
+
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
