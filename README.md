@@ -12,8 +12,10 @@
 
 La plataforma tiene previsto alcanzar su primera versión funcional a principios del *Q1 de 2027*. 
 
-> **Nota de ingeniería sobre el calendario:** La PWA ya es operativa, y cumple escrupulosamente el nivel AAA de la W3C. 
+> **Nota de ingeniería sobre el calendario:** La PWA ya es operativa, y cumple escrupulosamente el nivel AAA de la W3C.
+
 > Actualmente se está pasando el núcleo a un lenguaje compilado de bajo nivel (máquina de estados) para proteger la propiedad intelectual y revisando las hojas de estilo para cumplir el mínimo legal y ético de la plataforma: AAA+ (WCAG 2.2 AAA + literatura científica existente de neuroergonomia y psicología atencional).
+
 > En VortexSpira®, la accesibilidad y la equidad de la información son innegociables.
 
 **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
