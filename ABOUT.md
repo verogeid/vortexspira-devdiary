@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social)
 
 </div>
 
@@ -91,25 +91,8 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 
 ---
 
-<a id="alianza"></a>
-## 4. 🤝 Una Alianza de Confianza
-
-Nos hemos asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana. Juntos, estamos creando la próxima generación de Arquitectos de Calidad.
-
-<div align="center">
-  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200" style="border-radius: 10px;"/>
-</div>
-
-<div align="right">
-
-[Volver al índice ▲](#indice)
-
-</div>
-
----
-
 <a id="educadores"></a>
-## 5. 🚀 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
+## 4. 🚀 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
 
 VortexSpira® no es solo una plataforma para consumir cursos; es también una **herramienta de autor** diseñada para empoderar a los educadores y eliminar la barrera tecnológica.
 
@@ -139,7 +122,7 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 ---
 
 <a id="freemium"></a>
-## 6. 🎁 Freemium y Accesibilidad Económica
+## 5. 🎁 Freemium y Accesibilidad Económica
 
 VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
 
@@ -156,7 +139,7 @@ Además, aplicamos principios de **Equidad Económica Global**. Creemos que el t
 ---
 
 <a id="filosofia-social"></a>
-## 7. ⚖️ Filosofía Social: Techo Salarial, Sin Dividendos y Alquiler Social
+## 6. ⚖️ Filosofía Social: Techo Salarial, Sin Dividendos y Alquiler Social
 
 VortexSpira® nace como un proyecto de profundo impacto social, y su modelo económico está blindado desde la raíz para garantizar que el conocimiento y los recursos no se conviertan en herramientas de especulación.
 
