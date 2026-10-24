@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad](#freemium)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad](#freemium) • [Filosofía Social](#filosofia-social)
 
 </div>
 
@@ -138,6 +138,28 @@ VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, l
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
 
 Además, aplicamos principios de **Equidad Económica Global**. Creemos que el talento está distribuido uniformemente, pero las oportunidades no. Por eso, nuestros precios se ajustan dinámicamente según la **Paridad de Poder Adquisitivo (PPP)** de cada región, asegurando que el esfuerzo para acceder al conocimiento de élite sea equivalente, vivas donde vivas.
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+---
+
+<a id="filosofia-social"></a>
+## 7. ⚖️ Filosofía Social: Techo Salarial, Sin Dividendos y Alquiler Social
+
+VortexSpira® nace como un proyecto de profundo impacto social, y su modelo económico está blindado desde la raíz para garantizar que el conocimiento y los recursos no se conviertan en herramientas de especulación.
+
+* **Sin ánimo de lucro y sin dividendos:** La plataforma no contempla el reparto de dividendos entre socios ni inversores. Todo el excedente económico tiene un destino predeterminado por diseño arquitectónico y estatutario.
+* **Techo salarial estricto:** La retribución máxima para cualquier puesto equivalente dentro de la estructura estará rigurosamente **techada al 150% del salario del sector** tecnológico para su categoría. Nadie hará fortuna a costa de la educación o la neurodivergencia.
+* **Destino de los excedentes:** Los beneficios generados más allá del mantenimiento operativo se canalizarán en un orden de prioridades muy claro:
+  1. **Asociaciones:** Financiación y dotación de herramientas gratuitas para colectivos neurodivergentes y neurodegenerativas.
+  2. **Educación y Sanidad:** Apoyo directo a iniciativas públicas y comunitarias.
+  3. **Ladrillo Social:** El remanente disponible se destinará a la adquisición de locales y viviendas para destinarlas a **alquiler social**, con una condición innegociable: las rentas estarán **atadas al Salario Mínimo Interprofesional (SMI) y nunca al IPC**, protegiendo a los inquilinos de la especulación inmobiliaria.
+
+> *No queremos levantar muros por diferencias económicas. El excedente vuelve a la sociedad que lo hace posible.*
 
 <div align="right">
 
