@@ -154,6 +154,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 * **Sin ánimo de lucro y sin dividendos:** La plataforma no contempla el reparto de dividendos entre socios ni inversores. Todo el excedente económico tiene un destino predeterminado por diseño arquitectónico y estatutario.
 * **Techo salarial estricto:** La retribución máxima para cualquier puesto equivalente dentro de la estructura estará rigurosamente **techada al 150% del salario del sector** tecnológico para su categoría. Nadie hará fortuna a costa de la educación o la neurodivergencia.
+* **El capital humano es el recurso más importante:** Cualquier persona contratada por VortexSpira®, o por sus entidades derivadas, contará exactamente con los mismos beneficios y condiciones de bienestar. No solo debemos estar orgullosos de nuestro trabajo, sino también debidamente remunerados.
 * **Destino de los excedentes:** Los beneficios generados más allá del mantenimiento operativo se canalizarán en un orden de prioridades muy claro:
   1. **Asociaciones:** Financiación y dotación de herramientas gratuitas para colectivos neurodivergentes y neurodegenerativas.
   2. **Educación y Sanidad:** Apoyo directo a iniciativas públicas y comunitarias.
