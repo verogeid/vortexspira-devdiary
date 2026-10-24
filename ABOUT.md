@@ -30,7 +30,7 @@ Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura
 
 > *En pocos días he solicitado una auditoría radiométrica y colorimétrica de los materiales expuestos en las PDI para el Departamento de Educación del gobierno local (ya admitida a trámite como plausible); seguido una solicitud formal de estudio de colorimetría como estresor parásito que pudiera estar consumiendo ATP en patologías como la Esclerosis Múltiple (EM) para el Departamento de Salud; y nuevamente, una ampliación sobrevenida para el primero relacionando la auditoría propuesta con el estudio solicitado, como causa principal de la caída de la comprensión lectora en los informes PISA.*
 
-> *Ahora entenderéis por qué mis cursos se salen de la norma. Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.*
+Ahora entenderéis por qué mis cursos se salen de la norma. Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.
 
 > *Un agradecimiento especial a **Josu** por hacerme descansar, y tener estás epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
