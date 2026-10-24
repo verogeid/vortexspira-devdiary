@@ -32,7 +32,7 @@ Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura
 
 > *Ahora entenderéis por qué mis cursos se salen de la norma. Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.*
 
-> *Un agradecimiento especial a **Josu** por hacerme descansar, y tener estás epifanías involuntarias.*
+> *Un agradecimiento especial a **Josu** por hacerme descansar, y tener estás epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
 <div align="right">
 
