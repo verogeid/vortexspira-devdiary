@@ -10,9 +10,11 @@
 
 ## **🚀 ¡Únete a la Lista de Fundadores! (Lanzamiento Q2/Q3 2026)**
 
-La plataforma tiene previsto alcanzar su primera versión funcional entre finales del **segundo trimestre (Q2) y principios del Q3 de 2026**. 
+La plataforma tiene previsto alcanzar su primera versión funcional a principios del *Q1 de 2027*. 
 
-> **Nota de ingeniería sobre el calendario:** La PWA estaba planificada para principios de año, pero hemos ampliado la arquitectura del motor para incluir un parseo narrativo dinámico que reduce drásticamente la barrera de entrada técnica. El reto actual, y motivo de este ajuste de fechas, es garantizar que esta nueva inmersión multi-personaje se transmita con **exactamente la misma riqueza de información y contexto a un usuario sordociego** que a un usuario vidente. En VortexSpira®, la accesibilidad AAA y la equidad de la información son innegociables.
+> **Nota de ingeniería sobre el calendario:** La PWA ya es operativa, y cumple escrulosamente el nivel AAA de la W3C. 
+> Actualmente se está pasando el núcleo a un lenguaje compilado de bajo nivel (máquina de estados) para proteger la propiedad intelectual y revisando las hojas de estilo para cumplir el mínimo legal y ético de la plataforma: AAA+ (WCAG 2.2 AAA + literatura científica existente de neuroergonomia y psicología atencional).
+> En VortexSpira®, la accesibilidad AAA y la equidad de la información son innegociables.
 
 **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
 
@@ -59,7 +61,8 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 ### A. Diseño Anti-Fatiga (Superando la EAA)
 
-La plataforma implementa un **Diseño de Accesibilidad Profunda**: cumplimiento estricto **WCAG 2.1 AA** con adopción de estándares **AAA** en contraste, foco y carga cognitiva. La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímulos** (Texto vs. Imágenes), permitiendo que la atención se centre en la **comprensión**, no en la navegación.
+La plataforma implementa un **Diseño de Accesibilidad Profunda**: cumplimiento estricto **WCAG 2.2 AAA** con adopción de literatura científica en neuroergonomica (Zhu & Wu) y psicología atencional (Lavie). 
+La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímulos** (Texto vs. Imágenes y opacidades semánticas), permitiendo que la atención se centre en la **comprensión**, no en la navegación.
 
 <div align="center">
   <img src="./images/vortexspira-demo.gif" alt="Demostración del audiolibro interactivo VortexSpira" width="700" target="_top" style="border-radius: 10px;"/>
