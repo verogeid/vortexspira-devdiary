@@ -26,7 +26,7 @@ Esta arquitectura personal es la que condiciona mi forma de explicar y enseñar,
 
 Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
-> *Me suele comentar un amigo que descanse de vez en cuando. Esto tiene un inconveniente: equivale a retirar las manos del manillar que gobierna mi pensamiento lateral. Puedo estar haciendo cualquier otra cosa y tener una epifanía.*
+> *Me suele comentar un amigo y colaborador que descanse de vez en cuando. Esto tiene un inconveniente: equivale a retirar las manos del manillar que gobierna mi pensamiento lateral. Puedo estar haciendo cualquier otra cosa y tener una epifanía.*
 
 > *En pocos días he solicitado una auditoría radiométrica y colorimétrica de los materiales expuestos en las PDI para el Departamento de Educación del gobierno local (ya admitida a trámite como plausible); seguido una solicitud formal de estudio de colorimetría como estresor parásito que pudiera estar consumiendo ATP en patologías como la Esclerosis Múltiple (EM) para el Departamento de Salud; y nuevamente, una ampliación sobrevenida para el primero relacionando la auditoría propuesta con el estudio solicitado, como causa principal de la caída de la comprensión lectora en los informes PISA.*
 
