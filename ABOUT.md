@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad](#freemium) • [Filosofía Social](#filosofia-social)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Alianza](#alianza) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social)
 
 </div>
 
