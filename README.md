@@ -141,7 +141,7 @@ La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanent
   <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
 
-Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y el modelo para **Educadores**, visita:
+Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y el modelo para **Educadores**, así como las colaboraciones indispensables, visita:
 
 ➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.md)
 
