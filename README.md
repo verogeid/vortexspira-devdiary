@@ -131,7 +131,7 @@ Para conocer los **detalles técnicos** (Dictado Amigable, TTS sin Lag, Portabil
 
 VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
-Entender como se cruza el OWASP y WCAG para auditar con sentido, sabiendo como afecta a la psicología del usuario y como se aprovecha el atacante. Entender hasta donde llegan las herramientas automatizadas, y como crear las tuyas propias para auditar el cruce entre disciplinas, entendiendo **el porqué** siempre **antes** que **el qué o el cómo**.
+> *Entender como se cruza el OWASP y WCAG para construir y auditar con sentido, sabiendo como afecta a la psicología del usuario y como se aprovecha el atacante. Entender hasta donde llegan las herramientas automatizadas, y como crear las tuyas propias para auditar el cruce entre disciplinas, entendiendo **el porqué** siempre **antes** que **el qué o el cómo**.*
 
 ### B. Freemium y Herramientas
 
