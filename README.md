@@ -131,12 +131,6 @@ Para conocer los **detalles técnicos** (Dictado Amigable, TTS sin Lag, Portabil
 
 VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
-Nos hemos asociado estratégicamente con **TesteandoYa**, la plataforma líder en la comunidad de testers de habla hispana.
-
-<div align="center">
-  <img src="./images/logo-TY-blanco.png" alt="Logo de TesteandoYa" width="200" style="border-radius: 10px;"/>
-</div>
-
 ### B. Freemium y Herramientas
 
 La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanente** a los dos primeros capítulos. También somos una **herramienta de autor** para empoderar a los educadores.
@@ -172,7 +166,7 @@ El **Expositor de VortexSpira®** ha sido diseñado como una **SPA (Single Page 
 * **Enlace al informe:** [📄 Auditoría Técnica Completa](https://www.vortexspira.com?id=c-audit)
 
 ### **🛠️ Estado de la PWA (Plataforma de Aprendizaje)**
-Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersión total. Actualmente se encuentra en fase de **revisión interna** antes de su auditoría formal.
+Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersión total. Actualmente se encuentra en fase de **revisión interna** de neuroergonomia y psicología atencional, y recodificando el núcleo a un **lenguaje de bajo nivel compilado** (máquina de estados), para proteger la propiedad intelectual del autor.
 
 * **Arquitectura "Vainilla" SPA:** Desarrollo 100% nativo (zero third-party) para garantizar una experiencia sin recargas que interrumpan el flujo del motor TTS.
 * **Persistencia de Sesión:** El modelo SPA permite que el audio y el resaltado semántico del código se mantengan sincronizados entre capítulos sin saltos de contexto.
