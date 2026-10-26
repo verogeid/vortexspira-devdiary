@@ -111,6 +111,8 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 
 > *Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
 
+> *Y nuevamente a **Josu Atxa** por su inestimable colaboración, guiando este proyecto hacia nuevos horizontes sociales, gracias a su mirada empatíca y compromiso con las personas, desde la infancia hasta neurodivergentes y neurodegenerativas.*
+
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
