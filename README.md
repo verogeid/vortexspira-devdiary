@@ -145,6 +145,8 @@ Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y 
 
 ➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.md)
 
+> Colaborador: **Josu Atxa**. *Su mirada empatíca y compromiso con las personas, desde la infancia hasta neurodivergentes y neurodegenerativas es imprescindible para los horizontes sociales de esta iniciativa.*
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
