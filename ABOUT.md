@@ -111,6 +111,8 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 
 > *Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
 
+> *A **Olatz** y **Alaitz** por inspirar nuevas funcionalidades, como el futuro módulo para **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando *código IPA* y neurociencia, espero que contribuyendo a reducir su carga laboral, una vez esté finalizada su implementación.*
+
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
@@ -126,7 +128,7 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 <a id="freemium"></a>
 ## 5. 🎁 Freemium y Accesibilidad Económica
 
-VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **dos primeros capítulos de cada módulo, de cada curso.**
+VortexSpira® no es un producto que compras a ciegas. Cuando esté disponible, la plataforma se instalará como una PWA (Aplicación Web Progresiva) en tu sistema. Por defecto, tendrás acceso **gratuito y permanente** a los **primeros capítulos de cada módulo, de cada curso.**
 
 Podrás explorar la interfaz, probar la metodología y aprender los fundamentos sin coste alguno. Cuando estés listo para convertirte en un Arquitecto, podrás adquirir la licencia para desbloquear todo el contenido (marcado con 🔒) directamente desde la plataforma.
 
