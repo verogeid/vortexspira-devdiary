@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social) • [Agradecimientos](#menciones)
 
 </div>
 
@@ -33,8 +33,6 @@ Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura
 Ahora entenderéis por qué mis cursos se salen de la norma. Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.
 
 Veo donde se une el OWASP con el WCAG. Cómo afecta al usuario y, lo que es más importante, la psicología del usuario, incluido el atacante. Mis auditorías no se limitan a pasar las herramientas automatizadas estándar: creo las mías propias para auditar en segundo plano los cruces entre las disciplinas. Quiero enseñaros el porqué, para que veáis esas grietas.
-
-> *Un agradecimiento especial a **Josu** por hacerme descansar, y tener estás epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
 <div align="right">
 
@@ -109,10 +107,6 @@ El resultado es un material de estudio personalizado y altamente accesible que e
 
 Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
 
-> *Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
-
-> *A **Olatz** y **Alaitz** por inspirar nuevas funcionalidades, como el futuro módulo para **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando *código IPA* y neurociencia, espero que contribuyendo a reducir su carga laboral, una vez esté finalizada su implementación.*
-
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
 </div>
@@ -156,6 +150,25 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
   3. **Ladrillo Social:** El remanente disponible se destinará a la adquisición de locales y viviendas para destinarlas a **alquiler social**, con una condición innegociable: las rentas estarán **atadas al Salario Mínimo Interprofesional (SMI) y nunca al IPC**, protegiendo a los inquilinos de la especulación inmobiliaria.
 
 > *No queremos levantar muros por diferencias económicas. El excedente vuelve a la sociedad que lo hace posible.*
+
+<div align="right">
+
+[Volver al índice ▲](#indice)
+
+</div>
+
+---
+
+<a id="menciones"></a>
+## 7. ♥️ Agradecimientos
+
+*Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.
+
+Un agradecimiento especial a **Josu** por hacerme descansar, y tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.
+
+Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración. 
+
+Gracias **Alaitz** por compartir tus conocimientos sobre **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando *código IPA* y neurociencia, espero que contribuyendo a reducir tu carga laboral, una vez esté finalizada su implementación.*
 
 <div align="right">
 
