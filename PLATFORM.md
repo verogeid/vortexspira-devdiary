@@ -64,8 +64,8 @@ Para ampliar el número de voces no robóticas del **navegador**, sin caer en lo
 
 * **Diseño 100% Responsive:** La interfaz está diseñada para adaptarse perfectamente a cualquier tamaño de pantalla, desde móviles y tabletas hasta ordenadores de escritorio.
 * **Aprendizaje Offline Híbrido:** Inicia sesión y carga tu módulo una vez, y luego consume **todo el contenido del módulo sin conexión** a internet. Perfecto para viajar o zonas de baja cobertura. La conexión solo es necesaria para validar tu licencia, cambiar de módulo o sincronizar tu progreso.
-* **Sincronización Automática (En Desarrollo):** Podrás pausar una lección en un dispositivo y continuar **exactamente en la misma frase** en otro, garantizando la continuidad de la sesión.
-* **Compatibilidad Total:** La interfaz es completamente accesible y navegable con el **teclado** y compatible con **lectores de pantallas** (ARIA).
+* **Sincronización Automática:** Podrás pausar una lección en un dispositivo y continuar **exactamente en el mismo checkpoint** en otro, garantizando la continuidad de la sesión.
+* **Compatibilidad Total:** La interfaz es completamente accesible y navegable con el **teclado**, controles **multimedia** y compatible con **lectores de pantallas** (ARIA).
 * **Control de Playback:** Haz clic en **cualquier frase de la pantalla** para saltar instantáneamente a ese punto y reanudar la narración.
 
 <div align="right">
@@ -103,7 +103,7 @@ Mi transición a Ingeniero de Calidad Integral ha definido la arquitectura de la
 
 ### 👁️ Foco Guiado y Reducción de Carga Cognitiva (Detalles)
 
-El diseño simula una **habitación cilíndrica tridimensional** donde las secciones y cursos se encuentran en las "paredes". Esto permite una navegación intuitiva que, de nuevo, minimiza la fricción mental.
+El diseño del expositor simula una **habitación cilíndrica tridimensional** donde las secciones y cursos se encuentran en las "paredes". Esto permite una navegación intuitiva que, de nuevo, minimiza la fricción mental.
 
 El núcleo de la reducción de la fatiga se centra en el **Foco Guiado** mediante una técnica innovadora:
 
@@ -156,7 +156,7 @@ La experiencia de navegación es coherente y **sin fisuras** en cualquier factor
 * **🎓 Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y debes marcarlas todas para acertar.
   - 50 preguntas si es un curso completo, 30 si es un módulo.
   - 70% acertado para superar el examen.
-  - Intentos limitados. Se podrá adquirir una ampliación de intentos, a un precio reducido, para la misma certificación, pero el examen será otro.
+  - Intentos ilimitados.
   - QR de verificación impreso en la certificación. 
 * **🔒 Acceso Visual:** Los capítulos se desbloquean en tiempo real en el selector, reemplazando el candado (visible si no se ha adquirido el módulo).
 
@@ -174,7 +174,7 @@ La experiencia de navegación es coherente y **sin fisuras** en cualquier factor
 La plataforma **VortexSpira®** es un software comercial propietario.
 
 * **Copyright © 2025 Diego González Fernández.** Todos los derechos reservados.
-* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart).
+* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart, LemonSqueezy, GumRoad y otros).
 * La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
 * La marca VortexSpira® está registrada o en proceso de registro.
 * La creación intelectual de la plataforma está registrada en **Safe Creative** ([**🛡️ Registro de Derechos**](https://www.safecreative.org)).
