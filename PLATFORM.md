@@ -49,7 +49,7 @@ Esta arquitectura local se ha elegido deliberadamente sobre el uso de voces "onl
 3.  **Fragmentación:** El modelo de VortexSpira se basa en la generación de audio *en tiempo real*. Un modelo de "cache" (generar y descargar cientos de archivos de audio fragmentados por cada módulo) no es escalable y haría imposible el cambio de voz o de módulo de forma instantánea.
 
 **Evolución Futura (El Motor TTS Local):**
-Para ampliar el número de voces no robóticas del **navegador**, sin caer en los problemas de coste y latencia, se está estudiando la incorporación de un **motor TTS neuronal que se ejecute 100% offline dentro de la PWA (vía WebAssembly)**. Esta arquitectura permitirá incluir voces "VS" premium por defecto en el freemium sin lag.
+Para ampliar el número de voces no robóticas del **navegador**, sin caer en los problemas de coste y latencia, se está estudiando la incorporación de un **motor TTS neuronal que se ejecute 100% offline dentro de la PWA (vía WebAssembly)**. Esta arquitectura permitirá incluir voces "VS" premium por defecto en el freemium sin lag, y permitirá aprender idiomas basándonos en el código IPA y ciencia cognitiva.
 
 <div align="right">
 
@@ -65,7 +65,7 @@ Para ampliar el número de voces no robóticas del **navegador**, sin caer en lo
 * **Diseño 100% Responsive:** La interfaz está diseñada para adaptarse perfectamente a cualquier tamaño de pantalla, desde móviles y tabletas hasta ordenadores de escritorio.
 * **Aprendizaje Offline Híbrido:** Inicia sesión y carga tu módulo una vez, y luego consume **todo el contenido del módulo sin conexión** a internet. Perfecto para viajar o zonas de baja cobertura. La conexión solo es necesaria para validar tu licencia, cambiar de módulo o sincronizar tu progreso.
 * **Sincronización Automática:** Podrás pausar una lección en un dispositivo y continuar **exactamente en el mismo checkpoint** en otro, garantizando la continuidad de la sesión.
-* **Compatibilidad Total:** La interfaz es completamente accesible y navegable con el **teclado**, controles **multimedia** y compatible con **lectores de pantallas** (ARIA).
+* **Compatibilidad Total:** La interfaz es completamente accesible y navegable con el **teclado** y compatible con **lectores de pantallas** (ARIA).
 * **Control de Playback:** Haz clic en **cualquier frase de la pantalla** para saltar instantáneamente a ese punto y reanudar la narración.
 
 <div align="right">
@@ -131,6 +131,7 @@ La interfaz se construyó con la accesibilidad como requisito no funcional prima
     * La tecla **`Esc`** (Escape) se usa para la acción de **"Volver"** o para cerrar el modal actual.
 * **Guía Visual:** El **efecto *ghost* en el botón** con foco proporciona un *highlight* de alta visibilidad.
 * **Compatibilidad con Lectores de Pantalla:** Toda la estructura de navegación está debidamente etiquetada con atributos ARIA.
+* **Interfaz multimedia:** Controla la reproducción, o cambia la frase, actual usando los controles multimedia de tus dispositivos.
 
 ### 📱 Diseño *Responsive* (Adaptación)
 
@@ -154,7 +155,7 @@ La experiencia de navegación es coherente y **sin fisuras** en cualquier factor
 * **Gestión Centralizada:** El modal de activación te permite **actualizar tu clave global** en cualquier momento.
 * **🛒 Catálogo Inteligente:** Muestra un **catálogo de productos adquiridos** y **módulos disponibles para la compra**, con altura limitada y scroll.
 * **🎓 Exámenes de Nivel Profesional:** Los exámenes son tipo test (formato ISTQB), donde cada pregunta puede tener múltiples respuestas correctas y debes marcarlas todas para acertar.
-  - 50 preguntas si es un curso completo, 30 si es un módulo.
+  - 40 preguntas si es un curso completo, 20 si es un módulo.
   - 70% acertado para superar el examen.
   - Intentos ilimitados.
   - QR de verificación impreso en la certificación. 
