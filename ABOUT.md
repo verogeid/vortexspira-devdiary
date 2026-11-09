@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social) • [Agradecimientos](#menciones)
+[👤Arquitecto](#arquitecto) • [🏗️Escultor](#escultor) • [🛡️Seguridad](#seguridad) • [🚀Educadores](#educadores) • [🎁Freemium y Accesibilidad Económica](#freemium) • [⚖️Filosofía Social](#filosofia-social) • [♥️Agradecimientos](#menciones)
 
 </div>
 
@@ -26,11 +26,7 @@ Esta arquitectura personal es la que condiciona mi forma de explicar y enseñar,
 
 Mi filosofía de 'QA Holístico' se aplica a cada detalle, desde la arquitectura 'inexpugnable' de la plataforma hasta el contenido que enseña el 'porqué' antes que el 'cómo'. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
-> *Me suele comentar un amigo y colaborador que descanse de vez en cuando. Esto tiene un inconveniente: equivale a retirar las manos del manillar que gobierna mi pensamiento lateral. Puedo estar haciendo cualquier otra cosa y tener una epifanía.*
-
-> *En pocos días he solicitado una auditoría radiométrica y colorimétrica de los materiales expuestos en las PDI para el Departamento de Educación del gobierno local (ya admitida a trámite como plausible); seguido una solicitud formal de estudio de colorimetría como estresor parásito que pudiera estar consumiendo ATP en patologías como la Esclerosis Múltiple (EM) para el Departamento de Salud; y nuevamente, una ampliación sobrevenida para el primero relacionando la auditoría propuesta con el estudio solicitado, como causa principal de la caída de la comprensión lectora en los informes PISA.*
-
-Ahora entenderéis por qué mis cursos se salen de la norma. Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.
+Todo es **neurociencia, neuroergonomía y psicología atencional**; ergo, todo es **accesibilidad, rendimiento y ciberseguridad** en el plano digital.
 
 Veo donde se une el OWASP con el WCAG. Cómo afecta al usuario y, lo que es más importante, la psicología del usuario, incluido el atacante. Mis auditorías no se limitan a pasar las herramientas automatizadas estándar: creo las mías propias para auditar en segundo plano los cruces entre las disciplinas. Quiero enseñaros el porqué, para que veáis esas grietas.
 
@@ -108,7 +104,7 @@ El resultado es un material de estudio personalizado y altamente accesible que e
 Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogía el poder de "ingeniar" su propio contenido, sin fricción.
 
 <div align="center">
-  <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" target="_top" style="border-radius: 10px;"/>
+  <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" style="border-radius: 10px;"/>
 </div>
 
 <div align="right">
