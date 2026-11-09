@@ -5,7 +5,7 @@
 <a id="indice"></a>
 <div align="center">
 
-[👤Arquitecto](#arquitecto) • [🏗️Escultor](#escultor) • [🛡️Seguridad](#seguridad) • [🚀Educadores](#educadores) • [🎁Freemium y Accesibilidad Económica](#freemium) • [⚖️Filosofía Social](#filosofia-social) • [♥️Agradecimientos](#menciones)
+[Arquitecto](#arquitecto) • [Escultor](#escultor) • [Seguridad](#seguridad) • [Educadores](#educadores) • [Freemium y Accesibilidad Económica](#freemium) • [Filosofía Social](#filosofia-social) • [Agradecimientos](#menciones)
 
 </div>
 
@@ -88,7 +88,7 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 ---
 
 <a id="educadores"></a>
-## 4. 🚀 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
+## 4. 🏫 Más Allá de los Cursos: Una Herramienta para Creadores Educativos
 
 VortexSpira® no es solo una plataforma para consumir cursos; es también una **herramienta de autor** diseñada para empoderar a los educadores y eliminar la barrera tecnológica.
 
