@@ -168,7 +168,7 @@ Un agradecimiento especial a **Josu** por hacerme descansar, y tener epifanías 
 
 Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración. 
 
-Gracias **Alaitz** por compartir tus conocimientos sobre **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando *código IPA* y neurociencia, espero que contribuyendo a reducir tu carga laboral, una vez esté finalizada su implementación.*
+Gracias **Alaitz** por compartir tus conocimientos sobre **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando **código IPA** y neurociencia, espero que contribuyendo a reducir tu carga laboral, una vez esté finalizada su implementación.*
 
 <div align="right">
 
