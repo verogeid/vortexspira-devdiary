@@ -141,7 +141,7 @@ Además, aplicamos principios de **Equidad Económica Global**. Creemos que el t
 
 VortexSpira® nace como un proyecto de profundo impacto social, y su modelo económico está blindado desde la raíz para garantizar que el conocimiento y los recursos no se conviertan en herramientas de especulación.
 
-* **Sin ánimo de lucro y sin dividendos:** La plataforma no contempla el reparto de dividendos entre socios ni inversores. Todo el excedente económico tiene un destino predeterminado por diseño arquitectónico y estatutario.
+* **Empresa con Propósito Social y Limitación Estatutaria de Beneficios:** La plataforma no contempla el reparto de dividendos entre socios ni inversores. Todo el excedente económico tiene un destino predeterminado por diseño arquitectónico y estatutario.
 * **Techo salarial estricto:** La retribución máxima para cualquier puesto equivalente dentro de la estructura estará rigurosamente **techada al 150% del salario del sector** tecnológico para su categoría. Nadie hará fortuna a costa de la educación o la neurodivergencia.
 * **El capital humano es el recurso más importante:** Cualquier persona contratada por VortexSpira®, o por sus entidades derivadas, contará exactamente con los mismos beneficios y condiciones de bienestar. No solo debemos estar orgullosos de nuestro trabajo, sino también debidamente remunerados.
 * **Destino de los excedentes:** Los beneficios generados más allá del mantenimiento operativo se canalizarán en un orden de prioridades muy claro:
@@ -166,9 +166,9 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
-*Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración.*
+*Sin olvidar a todas aquellas madres y padres coraje, que reman solos contra viento y marea. Sincera admiración.*
 
-*Espero que mis hijos, **Eñaut** y **Uhaitz**, continúen mi labor, mirando siempre con cariño a todos aquellos que contribuyen a la educación de la infancia, empezando por las familias que reman solas. Sois mi verdadero motor e inspiración.*
+*Espero que mis hijos, **Eñaut** y **Uhaitz**, continúen mi labor, mirando siempre con cariño a todos aquellos que contribuyen al cuidado de la infancia. Sois mi verdadero motor e inspiración.*
 
 <div align="right">
 
