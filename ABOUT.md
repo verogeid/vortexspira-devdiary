@@ -168,6 +168,8 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración.*
 
+*Espero que mis hijos, **Eñaut** y **Uhaitz**, continúen mi labor, mirando siempre con cariño a todos aquellos que contribuyen a la educación de la infancia, empezando por las familias que reman solas. Sois mi verdadero motor e inspiración.*
+
 <div align="right">
 
 [Volver al índice ▲](#indice)
