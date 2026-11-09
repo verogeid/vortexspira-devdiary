@@ -162,7 +162,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 <a id="menciones"></a>
 ## 7. ♥️ Agradecimientos
 
-*Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.
+*Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
 
 Un agradecimiento especial a **Josu** por hacerme descansar, y tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.
 
