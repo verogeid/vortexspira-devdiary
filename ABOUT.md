@@ -145,7 +145,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 * **Techo salarial estricto:** La retribución máxima para cualquier puesto equivalente dentro de la estructura estará rigurosamente **techada al 150% del salario del sector** tecnológico para su categoría. Nadie hará fortuna a costa de la educación o la neurodivergencia.
 * **El capital humano es el recurso más importante:** Cualquier persona contratada por VortexSpira®, o por sus entidades derivadas, contará exactamente con los mismos beneficios y condiciones de bienestar. No solo debemos estar orgullosos de nuestro trabajo, sino también debidamente remunerados.
 * **Destino de los excedentes:** Los beneficios generados más allá del mantenimiento operativo se canalizarán en un orden de prioridades muy claro:
-  1. **Asociaciones:** Financiación y dotación de herramientas gratuitas para colectivos neurodivergentes y neurodegenerativas.
+  1. **Asociaciones:** Financiación y dotación de herramientas gratuitas para asociaciones de neurodivergencia y enfermedades neurodegenerativas.
   2. **Educación y Sanidad:** Apoyo directo a iniciativas públicas y comunitarias.
   3. **Ladrillo Social:** El remanente disponible se destinará a la adquisición de locales y viviendas para destinarlas a **alquiler social**, con una condición innegociable: las rentas estarán **atadas al Salario Mínimo Interprofesional (SMI) y nunca al IPC**, protegiendo a los inquilinos de la especulación inmobiliaria.
 
@@ -164,7 +164,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
 
-*A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
+*A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mi hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
 *Sin olvidar a todas aquellas madres y padres coraje, que reman solos contra viento y marea. Sincera admiración.*
 
