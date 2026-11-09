@@ -164,11 +164,9 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *Especial agradecimiento a **Naiara** y a **Allen** por hacerme sensible a tantos neurodivergentes olvidados por las editoriales. Ver de cerca vuestra lucha frente a las barreras del sistema educativo fue la chispa que me inspiró a enfocar el desarrollo de esta herramienta hacia quienes más lo necesitan. Sin vosotros, esta aplicación nunca hubiera sido lo que es.*
 
-Un agradecimiento especial a **Josu** por hacerme descansar, y tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.
+*A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mí hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
-Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración. 
-
-Gracias **Alaitz** por compartir tus conocimientos sobre **discalculia**. Y a **Nahikary** por inspirar la próxima evolución para idiomas, usando **código IPA** y neurociencia, espero que contribuyendo a reducir tu carga laboral, una vez esté finalizada su implementación.*
+*Sin olvidar a **Olatz** por ponerme límites e inspirar el cuidado de la infancia. Sincera admiración.*
 
 <div align="right">
 
