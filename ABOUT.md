@@ -179,7 +179,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 La plataforma **VortexSpira®** es un software comercial propietario.
 
-* **Copyright © 2025 Diego González Fernández.** Todos los derechos reservados.
+* **Copyright © 2025-26 Diego González Fernández.** Todos los derechos reservados.
 * El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart).
 * La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
 * La marca VortexSpira® está registrada o en proceso de registro.
