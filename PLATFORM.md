@@ -174,7 +174,7 @@ La experiencia de navegación es coherente y **sin fisuras** en cualquier factor
 
 La plataforma **VortexSpira®** es un software comercial propietario.
 
-* **Copyright © 2025 Diego González Fernández.** Todos los derechos reservados.
+* **Copyright © 2025-26 Diego González Fernández.** Todos los derechos reservados.
 * El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart, LemonSqueezy, GumRoad y otros).
 * La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
 * La marca VortexSpira® está registrada o en proceso de registro.
@@ -190,5 +190,5 @@ El **contenido de los cursos** que se ejecutan en esta plataforma se licencia po
 
 ---
 
-© 2025 Diego González Fernández
+© 2025-26 Diego González Fernández
 [LinkedIn](https://www.linkedin.com/in/diego-gonzalez-fernandez)
