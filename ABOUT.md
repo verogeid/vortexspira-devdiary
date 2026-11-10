@@ -76,7 +76,7 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 ## 3. 🛡️ Arquitectura de Seguridad (Detalles)
 
 * **Seguridad Criptográfica:** Las licencias de usuario se emiten como **JWS Asimétricos** (firmados digitalmente) por un servicio **serverless** dedicado. Este, a su vez, se comunica con la aplicación principal usando un **JWE Rotativo con IV**, garantizando que la información del usuario no solo viaja firmada, sino también cifrada y con claves que cambian constantemente.
-* **Protección de Contenido:** El usuario debe estar online para iniciar sesión o cambiar de módulo porque **cada módulo del curso está cifrado de manera independiente**.
+* **Protección de Contenido:** El usuario solo necesita conexión al iniciar sesión, al importar archivos externos o **la primera vez** que accede a un módulo nuevo. Dado que **cada módulo está cifrado de manera independiente**, ese primer acceso obtiene la clave de desencriptación y la persiste de forma segura en **IndexedDB**, permitiendo el consumo totalmente offline en adelante.
 * **Defensa Proactiva:** Basamos nuestra robustez en una **sanitización agresiva por lista blanca** y una política estricta de **minimización de datos**. Solo almacenamos la información mínima indispensable, eliminando cualquier riesgo asociado al manejo de datos sensibles innecesarios.
 
 <div align="right">
