@@ -73,11 +73,11 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 ---
 
 <a id="seguridad"></a>
-## 3. 🛡️ Arquitectura de Seguridad (Detalles)
+## 3. 🛡️ Arquitectura de Seguridad (Zero-Trust & Offline-First)
 
-* **Seguridad Criptográfica:** Las licencias de usuario se emiten como **JWS Asimétricos** (firmados digitalmente) por un servicio **serverless** dedicado. Este, a su vez, se comunica con la aplicación principal usando un **JWE Rotativo con IV**, garantizando que la información del usuario no solo viaja firmada, sino también cifrada y con claves que cambian constantemente.
-* **Protección de Contenido:** El usuario solo necesita conexión al iniciar sesión, al importar archivos externos o **la primera vez** que accede a un módulo nuevo. Dado que **cada módulo está cifrado de manera independiente**, ese primer acceso obtiene la clave de desencriptación y la persiste de forma segura en **IndexedDB**, permitiendo el consumo totalmente offline en adelante.
-* **Defensa Proactiva:** Basamos nuestra robustez en una **sanitización agresiva por lista blanca** y una política estricta de **minimización de datos**. Solo almacenamos la información mínima indispensable, eliminando cualquier riesgo asociado al manejo de datos sensibles innecesarios.
+* **Criptografía Asimétrica y Confianza Cero:** Las licencias de uso se gestionan mediante tokens criptográficos firmados asimétricamente desde una arquitectura *serverless* desacoplada. La comunicación con el cliente se blinda mediante cifrado autenticado con rotación dinámica de claves y vectores de inicialización efímeros, garantizando la integridad y confidencialidad de extremo a extremo.
+* **Protección de Propiedad Intelectual y Ejecución Offline:** Diseñada bajo un paradigma estrictamente *offline-first*, la plataforma permite el estudio sin conexión una vez validada la sesión inicial. El contenido se protege mediante aislamiento criptográfico modular en el cliente y procesamiento de bajo nivel, exigiendo validación en línea en tiempo real exclusivamente para operaciones críticas autorizadas, como la importación de material externo o el acceso por primera vez a cada módulo del curso.
+* **Defensa Proactiva y Privacidad por Diseño:** Aplicamos una sanitización estricta basada en listas blancas (Zero-Trust Input) y una política radical de minimización de datos. No recolectamos telemetría invasiva ni almacenamos información sensible innecesaria: lo que no se guarda, no puede ser vulnerado.
 
 <div align="right">
 
