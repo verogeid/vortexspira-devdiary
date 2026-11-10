@@ -92,6 +92,8 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 
 VortexSpira® no es solo una plataforma para consumir cursos; es también una **herramienta de autor** diseñada para empoderar a los educadores y eliminar la barrera tecnológica.
 
+> *La dopamina barata del streaming se combate con dopamina del esfuerzo, que siempre va a acompañada de endorfinas y serotonina —lo que uno agota ATP, lo otro ayuda a recargarlo—: neurociencia aplicada.*
+
 Bajo una licencia institucional especial (gratuita para asociaciones y PTs), los profesores de educación especial reciben un manual mínimo. Con él, pueden usar un simple **editor de textos en su propio móvil** para crear lecciones didácticas totalmente compatibles con nuestra plataforma.
 
 El proceso es de una simplicidad radical:
@@ -162,9 +164,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mi hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
-*Sin olvidar a todas las familias que pelean en silencio cada día frente a las barreras del sistema. Sincera admiración.*
-
-*Espero que mis hijos, **Eñaut** y **Uhaitz**, continúen mi labor, mirando siempre con cariño a todos aquellos que contribuyen al cuidado de la infancia. Sois mi verdadero motor e inspiración.*
+*Y especialmente a mis hijos, **Eñaut** y **Uhaitz**, por tirar de mi, recordarme siempre cuál es el verdadero objetivo y aguantar mis excentricidades. Sois mi verdadero motor e inspiración.*
 
 <div align="right">
 
