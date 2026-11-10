@@ -126,5 +126,5 @@ El **contenido de los cursos** que se ejecutan en esta plataforma se licencia po
 
 ---
 
-© 2025 Diego González Fernández
+© 2025-26 Diego González Fernández
 [LinkedIn](https://www.linkedin.com/in/diego-gonzalez-fernandez)
