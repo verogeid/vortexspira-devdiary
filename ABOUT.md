@@ -162,7 +162,7 @@ VortexSpira® nace como un proyecto de profundo impacto social, y su modelo econ
 
 *A **Josu** por hacerme descansar, y hacerme tener epifanías involuntarias, y a mi hermano **Gorka** por hacerme mirar la pantalla desde otra perspectiva.*
 
-*Sin olvidar a todas aquellas madres y padres coraje, que reman solos contra viento y marea. Sincera admiración.*
+*Sin olvidar a todas las familias que pelean en silencio cada día frente a las barreras del sistema. Sincera admiración.*
 
 *Espero que mis hijos, **Eñaut** y **Uhaitz**, continúen mi labor, mirando siempre con cariño a todos aquellos que contribuyen al cuidado de la infancia. Sois mi verdadero motor e inspiración.*
 
