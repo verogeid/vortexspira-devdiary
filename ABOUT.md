@@ -92,7 +92,7 @@ Desarrollo la plataforma **por capas**, siguiendo una hoja de ruta arquitectóni
 
 VortexSpira® no es solo una plataforma para consumir cursos; es también una **herramienta de autor** diseñada para empoderar a los educadores y eliminar la barrera tecnológica.
 
-Bajo una licencia institucional especial (gratuita para administraciones públicas y asociaciones), los profesores de educación especial reciben un manual mínimo. Con él, pueden usar un simple **editor de textos en su propio móvil** para crear lecciones didácticas totalmente compatibles con nuestra plataforma.
+Bajo una licencia institucional especial (gratuita para asociaciones y PTs), los profesores de educación especial reciben un manual mínimo. Con él, pueden usar un simple **editor de textos en su propio móvil** para crear lecciones didácticas totalmente compatibles con nuestra plataforma.
 
 El proceso es de una simplicidad radical:
 1.  El profesor **crea** el contenido en un archivo de texto.
