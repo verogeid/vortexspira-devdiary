@@ -14,9 +14,9 @@ La plataforma tiene previsto alcanzar su primera versión funcional a principios
 
 > **Nota de ingeniería sobre el calendario:** La PWA ya es operativa, y cumple escrupulosamente el nivel AAA de la W3C.
 
-> Actualmente se está pasando el núcleo a un lenguaje compilado de bajo nivel (máquina de estados) para proteger la propiedad intelectual y revisando las hojas de estilo para cumplir el mínimo legal y ético de la plataforma: AAA+ (WCAG 2.2 AAA + neuroergonomia: Lavie + Zhu & Wu).
+> Actualmente se está pasando el núcleo a un lenguaje compilado de bajo nivel (máquina de estados) para proteger la propiedad intelectual y revisando las hojas de estilo para cumplir el mínimo legal y ético de la plataforma: AAA+ (WCAG 2.2 AAA + neuroergonomía: Lavie + Zhu & Wu).
 
-> En VortexSpira®, la accesibilidad y la equidad de la información son innegociables.
+> En VortexSpira®, la accesibilidad y la equidad de la información son innegables.
 
 **Sé el primero en acceder y asegura tu descuento vitalicio de pre-lanzamiento de hasta el 60% OFF**.
 
@@ -33,7 +33,7 @@ Sí, has leído bien. Se te notificará la existencia de un nuevo curso que podr
 <a id="indice"></a>
 <div align="center">
 
-[Vistazo](#vistazo) • [Ciencia y Seguridad](#ciencia-seguridad) • [Metodología](#metodologia) • [Plataforma](#plataforma) • [Visión y Contacto](#vision-contacto) • [Hitos](#hitos) • [Licencia](#licencia)
+[Vistazo](#vistazo) • [Ciencia y Seguridad](#ciencia-seguridad) • [Metodología](#metodologia) • [Plataforma](#plataforma) • [Visión y Contacto](#vision-contacto) • [Hitos y Roadmap](#hitos) • [Licencia](#licencia)
 
 </div>
 
@@ -63,7 +63,7 @@ Diseñada desde cero para ser 100% responsive. Una experiencia sin fisuras, ya s
 
 ### A. Diseño Anti-Fatiga (Superando la EAA)
 
-La plataforma implementa un **Diseño de Accesibilidad Profunda**: cumplimiento estricto **WCAG 2.2 AAA** con adopción de literatura científica en neuroergonomica (Zhu & Wu) y psicología atencional (Lavie). 
+La plataforma implementa un **Diseño de Accesibilidad Profunda**: cumplimiento estricto **WCAG 2.2 AAA** con adopción de literatura científica en neuroergonomía (Zhu & Wu) y psicología atencional (Lavie). 
 La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímulos** (Texto vs. Imágenes y opacidades semánticas), permitiendo que la atención se centre en la **comprensión**, no en la navegación.
 
 <div align="center">
@@ -72,13 +72,13 @@ La clave es el **Foco Guiado (Audio + Highlight)** y la **Separación de Estímu
   <sub><em>Nota: El modal de imágenes sincronizadas está en desarrollo. El texto mostrado pertenece a una versión beta del curso 'Arquitecto Web'.</em></sub>
 </div>
 
-### B. Arquitectura de Seguridad
+### B. Arquitectura de Seguridad (Zero-Trust & Offline-First)
 
-No se puede enseñar ciberseguridad sin predicar con el ejemplo. Por eso, la calidad se extiende a la arquitectura de seguridad.
+No se puede enseñar ciberseguridad sin predicar con el ejemplo. Por eso, la calidad se extiende a la arquitectura de seguridad:
 
-Las licencias de usuario se emiten como **JWS Asimétricos** (firmados digitalmente) por un servicio **serverless** dedicado. Este, a su vez, se comunica con la aplicación principal usando un **JWE Rotativo con IV**, garantizando que la información del usuario no solo viaja firmada, sino también cifrada y con claves que cambian constantemente. Incluso el contenido está protegido: el usuario debe estar online para iniciar sesión o cambiar de módulo porque **cada módulo del curso está cifrado de manera independiente**.
-
-Combinado con una **sanitización agresiva por lista blanca** de todas las entradas y una filosofía de **minimización de datos** (no se guardan datos sensibles más allá del email del usuario), se crea una fortaleza por capas donde la autenticidad, la confidencialidad y la integridad están garantizadas. Los únicos datos que se almacenan son los mínimos indispensables para el servicio: la licencia global, los módulos liberados y la sincronización de progreso.
+* **Criptografía Asimétrica y Confianza Cero:** Las licencias de uso se gestionan mediante tokens criptográficos firmados asimétricamente desde una arquitectura *serverless* desacoplada. La comunicación con el cliente se blinda mediante cifrado autenticado con rotación dinámica de claves y vectores de inicialización efímeros, garantizando la integridad y confidencialidad de extremo a extremo.
+* **Protección de Propiedad Intelectual y Ejecución Offline:** Diseñada bajo un paradigma estrictamente *offline-first*, la plataforma permite el estudio sin conexión una vez validada la sesión inicial. El contenido se protege mediante aislamiento criptográfico modular en el cliente y procesamiento de bajo nivel, exigiendo validación en línea en tiempo real exclusivamente para operaciones críticas autorizadas, como la importación de material externo o el acceso por primera vez a cada módulo del curso.
+* **Defensa Proactiva y Privacidad por Diseño:** Aplicamos una sanitización estricta basada en listas blancas (*Zero-Trust Input*) y una política radical de minimización de datos. Solo almacenamos los metadatos mínimos indispensables para el servicio (licencia global, módulos liberados y sincronización de progreso): lo que no se guarda, no puede ser vulnerado.
 
 <div align="right">
 
@@ -131,11 +131,11 @@ Para conocer los **detalles técnicos** (Dictado Amigable, TTS sin Lag, Portabil
 
 VortexSpira® es una plataforma creada y diseñada por **Diego González Fernández, Ingeniero de Calidad Integral**. Mi objetivo no es enseñarte a escribir código, es enseñarte a pensar como un arquitecto.
 
-> *Entender como se cruza el OWASP y WCAG para construir y auditar con sentido, sabiendo como afecta a la psicología del usuario y como se aprovecha el atacante. Entender hasta donde llegan las herramientas automatizadas, y como crear las tuyas propias para auditar el cruce entre disciplinas, entendiendo **el porqué** siempre **antes** que **el qué o el cómo**.*
+> *Entender cómo se cruza el OWASP y WCAG para construir y auditar con sentido, sabiendo cómo afecta a la psicología del usuario y cómo se aprovecha el atacante. Entender hasta dónde llegan las herramientas automatizadas, y cómo crear las tuyas propias para auditar el cruce entre disciplinas, entendiendo **el porqué** siempre **antes** que **el qué o el cómo**.*
 
 ### B. Freemium y Herramientas
 
-La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanente** a los dos primeros capítulos. También somos una **herramienta de autor** para empoderar a los educadores.
+La plataforma se instalará como una PWA. Tendrás acceso **gratuito y permanente** a los primeros capítulos de cada módulo, de cada curso. También somos una **herramienta de autor** para empoderar a los educadores.
 
 <div align="center">
   <img src="./images/freemium-desktop.png" alt="Selector de capítulos con módulos bloqueados y desbloqueados" width="550" target="_top" style="border-radius: 10px;"/>
@@ -145,7 +145,7 @@ Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y 
 
 ➡️ [**Historia, Visión y Modelo de Negocio**](./ABOUT.md)
 
-> Colaborador: **Josu Atxa**. *Su mirada empatíca y compromiso con las personas —desde la infancia hasta neurodivergentes y neurodegenerativas— es imprescindible para los horizontes sociales de esta iniciativa.*
+> Colaborador: **Josu Atxa**. *Su mirada empática y compromiso con las personas —desde la infancia hasta neurodivergentes y neurodegenerativas— es imprescindible para los horizontes sociales de esta iniciativa.*
 
 <div align="right">
 
@@ -156,7 +156,7 @@ Para conocer mi historia, el proceso de **Arquitecto y Escultor de Software** y 
 ***
 
 <a id="hitos"></a>
-## **🚀 Evolución y Hitos de Ingeniería**
+## **🚀 Evolución, Hitos de Ingeniería y Hoja de Ruta**
 
 ### **🏅 Certificación AAA Lograda (Expositor)**
 El **Expositor de VortexSpira®** ha sido diseñado como una **SPA (Single Page Application)** de alto rendimiento, superando la auditoría de accesibilidad más exigente. Este hito valida que una arquitectura dinámica puede ser funcionalmente perfecta para la baja visión y la neurodivergencia.
@@ -170,11 +170,23 @@ El **Expositor de VortexSpira®** ha sido diseñado como una **SPA (Single Page 
 * **Enlace al informe:** [📄 Auditoría Técnica Completa](https://www.vortexspira.com?id=c-audit)
 
 ### **🛠️ Estado de la PWA (Plataforma de Aprendizaje)**
-Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersión total. Actualmente se encuentra en fase de **revisión interna** de neuroergonomia y psicología atencional, y recodificando el núcleo a un **lenguaje de bajo nivel compilado** (máquina de estados), para proteger la propiedad intelectual del autor.
+Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersión total. Actualmente se encuentra en fase de **revisión interna** de neuroergonomía y psicología atencional, y recodificando el núcleo a un **lenguaje de bajo nivel compilado** (máquina de estados), para proteger la propiedad intelectual del autor.
 
 * **Arquitectura "Vainilla" SPA:** Desarrollo 100% nativo (zero third-party) para garantizar una experiencia sin recargas que interrumpan el flujo del motor TTS.
 * **Persistencia de Sesión:** El modelo SPA permite que el audio y el resaltado semántico del código se mantengan sincronizados entre capítulos sin saltos de contexto.
 * **Enfoque Offline-First:** Optimizando el Service Worker para la gestión de módulos cifrados y la persistencia de progreso sin dependencia de red.
+
+### **🗺️ Hoja de Ruta Arquitectónica y Expansión Modular (Roadmap)**
+La plataforma se despliega bajo una arquitectura viva de entrega continua. Todas las evoluciones del motor y los nuevos módulos se actualizarán de forma **automática y transparente** en todos los dispositivos donde la PWA esté instalada, sin requerir reinstalación ni fricción para el usuario:
+
+* **Despliegue Inminente — Core MVP de Producción:** Consolidación y salida inmediata a mercado del núcleo funcional de audio-aprendizaje inmersivo y sincronización semántica.
+* **Núcleo Compilado a Bajo Nivel (Versión Completa):** Actualización automática en segundo plano del *parser* y la máquina de estados a binario compilado de bajo nivel, blindando la propiedad intelectual y el determinismo de ejecución.
+* **Ayuda Contextual Gráfica:** Modal visual sincronizado al milisegundo con el *highlight* de voz para proyectar diagramas, capturas e implicaciones del código sin romper el foco atencional.
+* **Arquitectura de Carga Diferida (*Lazy Loading* Bajo Demanda):** Para mantener intacta la ligereza extrema del núcleo (~292KB), los motores especializados solo se descargarán cuando el curso o el perfil neurocognitivo del alumno los invoque:
+  * **Atmósfera Inmersiva:** Motor de efectos sonoros ambientales desacoplado del canal de voz principal.
+  * **Módulo STEM (Formulación Matemática y Química):** Renderizado visual y dictado semántico naturalizado para notación científica compleja.
+  * **Módulo de Intervención en Discalculia:** Herramientas cognitivas y de representación espacial/numérica adaptadas para necesidades educativas especiales en el aula.
+  * **Módulo de Solfeo y Lenguaje Musical:** Sincronización rítmica y auditiva de precisión para lectura musical accesible.
 
 <div align="right">
 
@@ -190,7 +202,7 @@ Al igual que el expositor, la **PWA** es una **SPA** diseñada para la inmersió
 La plataforma **VortexSpira®** es un software comercial propietario.
 
 * **Copyright © 2025-26 Diego González Fernández.** Todos los derechos reservados.
-* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart).
+* El uso de la plataforma VortexSpira® requiere la adquisición de una **licencia válida** a través de los canales de venta autorizados (Hotmart, LemonSqueezy, GumRoad y otros).
 * La distribución, modificación o ingeniería inversa del software están estrictamente prohibidas sin acuerdo previo por escrito con el autor.
 * La marca VortexSpira® está registrada o en proceso de registro.
 * La creación intelectual de la plataforma está registrada en **Safe Creative** ([**🛡️ Registro de Derechos**](https://www.safecreative.org)).
