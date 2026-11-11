@@ -107,6 +107,9 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" style="border-radius: 10px;"/>
+  <br/><br/>
+  <img src="./images/demo-bullying-dbh.gif" alt="Demostración del módulo contra el acoso escolar reproduciendo el capítulo de La Mochila Invisible" width="550" style="border-radius: 10px;"/>
+  <p><em><strong>Módulo de prevención de acoso escolar y ciberacoso para secundaria (DBH / ESO):</strong> Diseñado para su distribución a través de las AMPAs como herramienta de concienciación en las aulas y vehículo de recaudación solidaria directa para las asociaciones de neurodivergencia y enfermedades neurodegenerativas.</em></p>
 </div>
 
 <div align="right">
