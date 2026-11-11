@@ -107,7 +107,19 @@ Es nuestra filosofía aplicada a la creación: damos a los expertos en pedagogí
 
 <div align="center">
   <img src="./images/import-modal-desktop.png" alt="Importación de contenidos externos" width="550" style="border-radius: 10px;"/>
-  <br/><br/>
+</div>
+
+### 🎯 El Tridente Institucional para Centros Educativos (DBH / ESO)
+Como extensión natural de nuestra herramienta de autor, la plataforma despliega un modelo de intervención directa en los centros educativos a través de las **AMPAs y fundaciones asociadas**. Frente a las modas o prohibiciones punitivas, atacamos los tres vectores críticos de la adolescencia actual mediante inmersión sensorial, neuroergonomía y *Ansiedad Cero*, canalizando la recaudación para financiar la investigación social:
+
+1. **Convivencia: Bullying y Ciberacoso**  
+   *Abordaje invisible y temprano.* Desmenuza la diferencia real entre conflicto y agresión sostenida mediante la metáfora de la «mochila invisible» y el desgaste de energía atencional, dotando a los alumnos de herramientas prácticas de defensa, gestión de espectadores y ciberseguridad defensiva frente al hostigamiento digital.
+2. **Salud Afectivo-Sexual: Educación y Desprogramación del Impacto Digital**  
+   *Prevención sin tabúes ni moralina.* Trata la prevención de ETS/ITS y embarazos no deseados conectándola directamente con la desprogramación de las expectativas distorsionadas que el consumo temprano de pornografía en red genera en el desarrollo afectivo y cerebral de los adolescentes.
+3. **Salud Mental y Adicciones: Pantallas, Ludopatía y Agotamiento de ATP**  
+   *Biología frente a la dopamina barata.* Explica con rigor neurocientífico (teoría de cargas de Lavie y Zhu & Wu) cómo las cajas de botín en videojuegos, las apuestas online y los estímulos periféricos constantes vacían las reservas de energía celular (ATP), arruinan el descanso profundo y bloquean la comprensión lectora, cerrando el círculo de la apatía escolar.
+
+<div align="center">
   <img src="./images/demo-bullying-dbh.gif" alt="Demostración del módulo contra el acoso escolar reproduciendo el capítulo de La Mochila Invisible" width="550" style="border-radius: 10px;"/>
   <p><em><strong>Módulo de prevención de acoso escolar y ciberacoso para secundaria (DBH / ESO):</strong> Diseñado para su distribución a través de las AMPAs como herramienta de concienciación en las aulas y vehículo de recaudación solidaria directa para las asociaciones de neurodivergencia y enfermedades neurodegenerativas.</em></p>
 </div>
