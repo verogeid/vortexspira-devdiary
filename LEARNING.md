@@ -45,7 +45,7 @@ Mi modelo de aprendizaje se basa en la **simulación inmersiva de la vida real**
 
 Aprenderás a gestionar un proyecto asistiendo a **reuniones simuladas** y asumiendo la perspectiva de **cinco personajes clave**. Esto entrena tu habilidad para comunicarte y negociar con todos los *stakeholders*:
 
-* **Tu Mentor (BA Experto):** Guía estratégica.
+* **Tu Mentor (BA Experto con doble rol: en mesa de negociación y como voz en off privada para ti):** Guía estratégica. 
 * **El Cliente:** Foco en la **necesidad de negocio**.
 * **El QA Lead:** Perspectiva de la **calidad y el riesgo**.
 * **El Product Owner (PO):** Visión de la **prioridad y el valor**.
